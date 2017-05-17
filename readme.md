@@ -128,7 +128,7 @@ These feature ideas are for "extra credit"! **Don't focus on them until you've h
 * Integrate **Object Oriented Programming** design patterns.
 * Keep track of **multiple game rounds** with a win counter.
 * Allow **customized players** (name, symbol, color, avatar, etc.).
-* Use <a href="https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage" target="_blank">localStorage</a> to **keep track of game state**, even if the user refreshes the page.
+* Use [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) to **keep track of game state**, even if the user refreshes the page.
 * Get creative with **inventive styling**, e.g. use hover effects or animations to spiff things up. Get creative with backgrounds.
 * Display a **countdown timer** ("3, 2, 1, Go!"), the winning time, and the best time.
 * **Race against a bot**.
@@ -141,9 +141,9 @@ These feature ideas are for "extra credit"! **Don't focus on them until you've h
 
 ###### Where can I look for help online?
 
-* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">MDN Javascript Docs</a> - *a great reference for all things JavaScript*
-* <a href="http://api.jquery.com" target="_blank">jQuery Docs</a>
-* <a href="https://pages.github.com" target="_blank">Github Pages</a> or <a href="https://www.bitballoon.com" target="_blank">BitBalloon</a> - *for hosting your game*
+* [MDN Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - *a great reference for all things JavaScript*
+* [jQuery Docs](http://api.jquery.com)
+* [Github Pages](https://pages.github.com) or [BitBalloon](https://www.bitballoon.com) - *for hosting your game*
 
 ---
 
