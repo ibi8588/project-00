@@ -23,7 +23,7 @@
 
 ###### What is this project?
 
-You'll be building one more browser game, synthesizing all the knowledge you've packed into your brain over the past two weeks! You'll be leveraging the power of jQuery to create a **Racing Game**, where two players can move their "cars" across the browser to compete for the win.
+You'll be building one more browser game, synthesizing all the knowledge you've packed into your brain over the past week and a half! You'll be leveraging the power of jQuery to create a **Racing Game**, where two players can move their "cars" across the browser to compete for the win.
 
 **You will be working individually for this project**, but we encourage you to get help from your peers and even pair-program on each other's projects when bugs arise.
 
@@ -47,8 +47,8 @@ By the time you submit this project, you will have leveled-up in many big themes
 
 ###### When is it due?
 
-* **Assigned:** Friday, Nov 6th
-* **Due:** Monday, Nov 9th @ 9:17am
+* **Assigned:** Wednesday, May 17
+* **Due:** Thursday, May 18 @ 9am
 
 ---
 
@@ -85,7 +85,7 @@ By the time you submit this project, you will have leveled-up in many big themes
 
 * A **working game, built by you**
 * A **git repository hosted on Github** with frequent commits dating back to the very beginning of the project
-* **A `readme`** with explanations of the **technologies used**, **existing features**, **planned features**, and anything else you'd like to add. See [example-readme](example-readme.md) as a guide, and use this <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet" target="_blank">markdown cheatsheet</a> to help with formatting.
+* **A `readme`** with explanations of the **technologies used**, **existing features**, **planned features**, and anything else you'd like to add. See [example-readme](example-readme.md) as a guide, and use this [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) to help with formatting.
 
 ---
 
@@ -117,7 +117,7 @@ By the time you submit this project, you will have leveled-up in many big themes
 ###### How do I turn in the project?
 
 * As you make code changes, frequently commit and push to GitHub.
-* Once you've finished the project and pushed your work to GitHub, please add the link to your project's GitHub repo to <a href="https://docs.google.com/spreadsheets/d/1HF3ZA0Mdw0HGXJU3Sid14zl2qZHCAIg0X1gwFQNPSVE/edit?usp=sharing" target="_blank">this spreadsheet</a>.
+* Once you've finished the project and pushed your work to GitHub, please add the link to your project's GitHub repo to [our Google doc](https://docs.google.com/spreadsheets/d/19baYsQr8BcsPz5E28qp1WYjeLUabz8B26EGnZEHQpmw/edit#gid=0).
 
 ## Bonus
 
