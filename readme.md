@@ -67,6 +67,14 @@ By the time you submit this project, you will have leveled-up in many big themes
 
 ---
 
+### Sample projects
+
+* [Chiggen Chase](https://serabakpak.github.io/chiggen-chase/) - a racing game
+* [Airplane Crash!](http://airplane-crash.bitballoon.com/) - a "racing game" dodging birds so you don't crash.
+* [Labyrinth game](https://14budig.github.io/labyrinth-game/) - find the yellow coin and get to the orange exit while avoiding the red Minotaur.
+* [Bubble pop game](https://samdarbonne.github.io/sams-racing-game/) - pop the bubbles and try to beat the records.
+---
+
 ## Specs
 
 ###### What are the core features?
